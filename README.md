@@ -1,1 +1,2 @@
 # smartcone-testing
+TEST
